@@ -113,9 +113,9 @@ This library is licensed under the [MIT License](LICENSE), so you are free to us
 
 ## 👤 Author
 
-Developed and maintained by **Herobrine Sah**
+Developed and maintained by **Herobrine Pixel**
 
-Feel free to [open an issue](https://github.com/your-repo/issues) or submit a pull request if you'd like to improve the library.
+Feel free to open an issue or submit a pull request if you'd like to improve the library.
 
 ---
 
@@ -123,8 +123,7 @@ Feel free to [open an issue](https://github.com/your-repo/issues) or submit a pu
 
 ```
 TouchSensor/
-├── examples/
-│   └── BasicTouch/             # Sample sketch
+├── examples/             
 │       └── BasicTouch.ino
 ├── src/
 │   └── TouchSensor.h
