@@ -1,0 +1,5 @@
+TouchSensor	KEYWORD1
+isTouched	KEYWORD2
+wasTapped	KEYWORD2
+wasLongPress	KEYWORD2
+setDebounceTime	KEYWORD2
