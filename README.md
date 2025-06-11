@@ -123,8 +123,9 @@ Feel free to open an issue or submit a pull request if you'd like to improve the
 
 ```
 TouchSensor/
-├── examples/             
-│       └── BasicTouch.ino
+├── examples/
+│   └── BasicTouchSensor_examples/             # Sample sketch             
+│       └── BasicTouchSensor_examples.ino
 ├── src/
 │   └── TouchSensor.h
 │   └── TouchSensor.cpp
